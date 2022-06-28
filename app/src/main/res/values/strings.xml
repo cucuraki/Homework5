@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Homework5</string>
+    <string name="register">Register</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="next">Next</string>
+    <string name="log_in">Log in</string>
+    <string name="enter_name">Enter name</string>
+    <string name="sing_up">sing up</string>
+    <string name="terms_and_conditions">By signing up, you agree to Photo\'s <a href="https://www.youtube.com/watch?v=OHwL5vcUr8g">Terms of Service</a> and <a href="https://www.youtube.com/watch?v=SgS-MG7wolw">Privacy Policy.</a></string>
+    <string name="photo">photo</string>
+    <string name="pawel_czerwinski">\@pawel_czerwinski</string>
+    <string name="pawel_czerwinski1">Pawel Czerwinski</string>
+</resources>
